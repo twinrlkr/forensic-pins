@@ -1,0 +1,55 @@
+[
+  {
+    "id": "SCAN-639125166186737152",
+    "discordId": "1402514427894431785",
+    "discordUsername": "Administrador",
+    "date": "23/04/2026 04:50:18",
+    "ip": "138.219.238.89",
+    "computerName": "DESKTOP-KM9H3VB",
+    "sistemaOperacional": "Microsoft Windows NT 10.0.19045.0",
+    "findings": {
+      "grave": [
+        {
+          "name": "Processo suspeito: StartMenuExperienceHost",
+          "type": "grave",
+          "description": "Processo suspeito: StartMenuExperienceHost",
+          "logDate": "2026-04-23 04:50:18"
+        },
+        {
+          "name": "Pasta suspeita em AppData: epicgameslauncher",
+          "type": "grave",
+          "description": "Pasta suspeita em AppData: epicgameslauncher",
+          "logDate": "2026-04-23 04:50:18"
+        },
+        {
+          "name": "Pasta suspeita em AppData: unrealenginelauncher",
+          "type": "grave",
+          "description": "Pasta suspeita em AppData: unrealenginelauncher",
+          "logDate": "2026-04-23 04:50:18"
+        },
+        {
+          "name": "Arquivo suspeito na área de trabalho: rockstar games launcher.lnk",
+          "type": "grave",
+          "description": "Arquivo suspeito na área de trabalho: rockstar games launcher.lnk",
+          "logDate": "2026-04-23 04:50:18"
+        },
+        {
+          "name": "Registro suspeito: EpicGamesLauncher = \"C:\\Program Files\\Epic Games\\Launcher\\Por",
+          "type": "grave",
+          "description": "Registro suspeito: EpicGamesLauncher = \"C:\\Program Files\\Epic Games\\Launcher\\Portal\\Binaries\\Win64\\EpicGamesLauncher.exe\" -silent -launchcontext=boot",
+          "logDate": "2026-04-23 04:50:18"
+        },
+        {
+          "name": "Registro suspeito: EpicGamesLauncher = \"C:\\Program Files\\Epic Games\\Launcher\\Por",
+          "type": "grave",
+          "description": "Registro suspeito: EpicGamesLauncher = \"C:\\Program Files\\Epic Games\\Launcher\\Portal\\Binaries\\Win64\\EpicGamesLauncher.exe\" -silent -launchcontext=boot",
+          "logDate": "2026-04-23 04:50:18"
+        }
+      ],
+      "alerta": [],
+      "limpo": []
+    },
+    "suspiciousCount": 6,
+    "scanDuration": "3m 0s"
+  }
+]
