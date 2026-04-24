@@ -2656,5 +2656,1592 @@
     "username": "Twin SS",
     "createdAt": "2026-04-24T01:39:23.082Z",
     "expiresAt": "2026-04-24T01:49:23.082Z"
+  },
+  {
+    "type": "scan",
+    "id": "",
+    "pin": "",
+    "discordId": "1402514427894431785",
+    "discordUsername": "Administrador",
+    "date": "23/04/2026 22:42:30",
+    "computerName": "DESKTOP-KM9H3VB",
+    "sistemaOperacional": "Microsoft Windows NT 10.0.19045.0",
+    "findings": {
+      "grave": [
+        {
+          "name": "Bypass method Found: Replace",
+          "type": "grave",
+          "description": "Arquivo encontrado: replace.js",
+          "location": "C:\\Users\\twin\\Desktop\\forensic-bot\\node_modules\\lodash\\replace.js",
+          "logDate": "2026-04-23 22:42:30"
+        },
+        {
+          "name": "Bypass method Found: Replace",
+          "type": "grave",
+          "description": "Arquivo encontrado: _replaceholders.js",
+          "location": "C:\\Users\\twin\\Desktop\\forensic-bot\\node_modules\\lodash\\_replaceHolders.js",
+          "logDate": "2026-04-23 22:42:30"
+        },
+        {
+          "name": "External Cheat Detected: astrapvp.rar",
+          "type": "grave",
+          "description": "Arquivo encontrado: astrapvp.rar",
+          "location": "C:\\Users\\twin\\Downloads\\AstraPVP.rar",
+          "logDate": "2026-04-23 22:42:30"
+        },
+        {
+          "name": "Cheat Detected",
+          "type": "grave",
+          "description": "Arquivo encontrado: astrapvp.rar",
+          "location": "C:\\Users\\twin\\Downloads\\AstraPVP.rar",
+          "logDate": "2026-04-23 22:42:30"
+        },
+        {
+          "name": "Bypass method detected",
+          "type": "grave",
+          "description": "Arquivo encontrado: bypassing.rar",
+          "location": "C:\\Users\\twin\\Downloads\\bypassing.rar",
+          "logDate": "2026-04-23 22:42:30"
+        },
+        {
+          "name": "Bypass method detected",
+          "type": "grave",
+          "description": "Arquivo encontrado: bypassing.rar",
+          "location": "C:\\Users\\twin\\Downloads\\bypassing.rar",
+          "logDate": "2026-04-23 22:42:30"
+        },
+        {
+          "name": "External Cheat Detected",
+          "type": "grave",
+          "description": "Arquivo encontrado: clean fivem external.rar",
+          "location": "C:\\Users\\twin\\Downloads\\Clean Fivem external.rar",
+          "logDate": "2026-04-23 22:42:30"
+        },
+        {
+          "name": "Internal Cheat Detected",
+          "type": "grave",
+          "description": "Arquivo encontrado: mixinternal.rar",
+          "location": "C:\\Users\\twin\\Downloads\\mixinternal.rar",
+          "logDate": "2026-04-23 22:42:30"
+        },
+        {
+          "name": "Bypass method detected",
+          "type": "grave",
+          "description": "Arquivo encontrado: skull bypass.exe",
+          "location": "C:\\Users\\twin\\Downloads\\Skull Bypass.exe",
+          "logDate": "2026-04-23 22:42:30"
+        },
+        {
+          "name": "Bypass method detected",
+          "type": "grave",
+          "description": "Arquivo encontrado: skull bypass.pdb",
+          "location": "C:\\Users\\twin\\Downloads\\Skull Bypass.pdb",
+          "logDate": "2026-04-23 22:42:30"
+        },
+        {
+          "name": "External Cheat Detected",
+          "type": "grave",
+          "description": "Arquivo encontrado: fivem-external - backup.vcxproj.user",
+          "location": "C:\\Users\\twin\\Downloads\\Clean Fivem external\\Fivem-External - Backup.vcxproj.user",
+          "logDate": "2026-04-23 22:42:30"
+        },
+        {
+          "name": "External Cheat Detected",
+          "type": "grave",
+          "description": "Arquivo encontrado: fivem-external.cpp",
+          "location": "C:\\Users\\twin\\Downloads\\Clean Fivem external\\Fivem-External.cpp",
+          "logDate": "2026-04-23 22:42:30"
+        },
+        {
+          "name": "External Cheat Detected",
+          "type": "grave",
+          "description": "Arquivo encontrado: fivem-external.vcxproj",
+          "location": "C:\\Users\\twin\\Downloads\\Clean Fivem external\\Fivem-External.vcxproj",
+          "logDate": "2026-04-23 22:42:30"
+        },
+        {
+          "name": "External Cheat Detected",
+          "type": "grave",
+          "description": "Arquivo encontrado: fivem-external.vcxproj.filters.txt",
+          "location": "C:\\Users\\twin\\Downloads\\Clean Fivem external\\Fivem-External.vcxproj.filters.txt",
+          "logDate": "2026-04-23 22:42:30"
+        },
+        {
+          "name": "External Cheat Detected",
+          "type": "grave",
+          "description": "Arquivo encontrado: fivem-external.vcxproj.user",
+          "location": "C:\\Users\\twin\\Downloads\\Clean Fivem external\\Fivem-External.vcxproj.user",
+          "logDate": "2026-04-23 22:42:30"
+        },
+        {
+          "name": "External Cheat Detected",
+          "type": "grave",
+          "description": "Arquivo encontrado: fivem-external.sln",
+          "location": "C:\\Users\\twin\\Downloads\\Yuseiv6\\Fivem-External.sln",
+          "logDate": "2026-04-23 22:42:30"
+        },
+        {
+          "name": "External Cheat Detected",
+          "type": "grave",
+          "description": "Arquivo encontrado: fivem-external.sln",
+          "location": "C:\\Users\\twin\\Downloads\\AstraPVP\\AstraPVP\\Fivem-External.sln",
+          "logDate": "2026-04-23 22:42:30"
+        },
+        {
+          "name": "Injection Code detected",
+          "type": "grave",
+          "description": "Arquivo encontrado: injector.cpp",
+          "location": "C:\\Users\\twin\\Downloads\\clin\\Client\\Injector.cpp",
+          "logDate": "2026-04-23 22:42:30"
+        },
+        {
+          "name": "Injection Code detected",
+          "type": "grave",
+          "description": "Arquivo encontrado: injector.hpp",
+          "location": "C:\\Users\\twin\\Downloads\\clin\\Client\\Injector.hpp",
+          "logDate": "2026-04-23 22:42:30"
+        },
+        {
+          "name": "Injection Code detected",
+          "type": "grave",
+          "description": "Arquivo encontrado: injectorcleaner.hpp",
+          "location": "C:\\Users\\twin\\Downloads\\clin\\Client\\InjectorCleaner.hpp",
+          "logDate": "2026-04-23 22:42:30"
+        },
+        {
+          "name": "Internal Cheat Detected",
+          "type": "grave",
+          "description": "Arquivo encontrado: mix-fivem-internal.sln",
+          "location": "C:\\Users\\twin\\Downloads\\mixinternal\\mix.internal\\Mix-Fivem-Internal.sln",
+          "logDate": "2026-04-23 22:42:30"
+        },
+        {
+          "name": "External Cheat Detected",
+          "type": "grave",
+          "description": "Arquivo encontrado: external.sln",
+          "location": "C:\\Users\\twin\\Downloads\\Thunder\\THUNDER\\External.sln",
+          "logDate": "2026-04-23 22:42:30"
+        },
+        {
+          "name": "External Cheat Detected",
+          "type": "grave",
+          "description": "Arquivo encontrado: fivem-external.cpp",
+          "location": "C:\\Users\\twin\\Downloads\\Yuseiv6\\Fivem-External\\Fivem-External.cpp",
+          "logDate": "2026-04-23 22:42:30"
+        },
+        {
+          "name": "External Cheat Detected",
+          "type": "grave",
+          "description": "Arquivo encontrado: fivem-external.vcxproj",
+          "location": "C:\\Users\\twin\\Downloads\\Yuseiv6\\Fivem-External\\Fivem-External.vcxproj",
+          "logDate": "2026-04-23 22:42:30"
+        },
+        {
+          "name": "External Cheat Detected",
+          "type": "grave",
+          "description": "Arquivo encontrado: fivem-external.vcxproj.filters",
+          "location": "C:\\Users\\twin\\Downloads\\Yuseiv6\\Fivem-External\\Fivem-External.vcxproj.filters",
+          "logDate": "2026-04-23 22:42:30"
+        },
+        {
+          "name": "External Cheat Detected",
+          "type": "grave",
+          "description": "Arquivo encontrado: fivem-external.vcxproj.user",
+          "location": "C:\\Users\\twin\\Downloads\\Yuseiv6\\Fivem-External\\Fivem-External.vcxproj.user",
+          "logDate": "2026-04-23 22:42:30"
+        },
+        {
+          "name": "External Cheat Detected",
+          "type": "grave",
+          "description": "Arquivo encontrado: fivem-external - backup.vcxproj.user",
+          "location": "C:\\Users\\twin\\Downloads\\9z\\9z\\Fivem-External\\Fivem-External - Backup.vcxproj.user",
+          "logDate": "2026-04-23 22:42:30"
+        },
+        {
+          "name": "External Cheat Detected",
+          "type": "grave",
+          "description": "Arquivo encontrado: fivem-external.cpp",
+          "location": "C:\\Users\\twin\\Downloads\\9z\\9z\\Fivem-External\\Fivem-External.cpp",
+          "logDate": "2026-04-23 22:42:30"
+        },
+        {
+          "name": "External Cheat Detected",
+          "type": "grave",
+          "description": "Arquivo encontrado: fivem-external.vcxproj",
+          "location": "C:\\Users\\twin\\Downloads\\9z\\9z\\Fivem-External\\Fivem-External.vcxproj",
+          "logDate": "2026-04-23 22:42:30"
+        },
+        {
+          "name": "External Cheat Detected",
+          "type": "grave",
+          "description": "Arquivo encontrado: fivem-external.vcxproj.filters",
+          "location": "C:\\Users\\twin\\Downloads\\9z\\9z\\Fivem-External\\Fivem-External.vcxproj.filters",
+          "logDate": "2026-04-23 22:42:30"
+        },
+        {
+          "name": "External Cheat Detected",
+          "type": "grave",
+          "description": "Arquivo encontrado: fivem-external.vcxproj.user",
+          "location": "C:\\Users\\twin\\Downloads\\9z\\9z\\Fivem-External\\Fivem-External.vcxproj.user",
+          "logDate": "2026-04-23 22:42:30"
+        },
+        {
+          "name": "External Cheat Detected",
+          "type": "grave",
+          "description": "Arquivo encontrado: fivem-external.cpp",
+          "location": "C:\\Users\\twin\\Downloads\\AstraPVP\\AstraPVP\\Fivem-External\\Fivem-External.cpp",
+          "logDate": "2026-04-23 22:42:30"
+        },
+        {
+          "name": "External Cheat Detected",
+          "type": "grave",
+          "description": "Arquivo encontrado: fivem-external.vcxproj",
+          "location": "C:\\Users\\twin\\Downloads\\AstraPVP\\AstraPVP\\Fivem-External\\Fivem-External.vcxproj",
+          "logDate": "2026-04-23 22:42:30"
+        },
+        {
+          "name": "External Cheat Detected",
+          "type": "grave",
+          "description": "Arquivo encontrado: fivem-external.vcxproj.filters",
+          "location": "C:\\Users\\twin\\Downloads\\AstraPVP\\AstraPVP\\Fivem-External\\Fivem-External.vcxproj.filters",
+          "logDate": "2026-04-23 22:42:30"
+        },
+        {
+          "name": "External Cheat Detected",
+          "type": "grave",
+          "description": "Arquivo encontrado: fivem-external.vcxproj.user",
+          "location": "C:\\Users\\twin\\Downloads\\AstraPVP\\AstraPVP\\Fivem-External\\Fivem-External.vcxproj.user",
+          "logDate": "2026-04-23 22:42:30"
+        },
+        {
+          "name": "External Cheat Detected",
+          "type": "grave",
+          "description": "Arquivo encontrado: fivem-external.build.cppclean.log",
+          "location": "C:\\Users\\twin\\Downloads\\Clean Fivem external\\x64\\Debug\\Fivem-External.Build.CppClean.log",
+          "logDate": "2026-04-23 22:42:30"
+        },
+        {
+          "name": "External Cheat Detected",
+          "type": "grave",
+          "description": "Arquivo encontrado: fivem-external.log",
+          "location": "C:\\Users\\twin\\Downloads\\Clean Fivem external\\x64\\Debug\\Fivem-External.log",
+          "logDate": "2026-04-23 22:42:30"
+        },
+        {
+          "name": "External Cheat Detected",
+          "type": "grave",
+          "description": "Arquivo encontrado: fivem-external.obj",
+          "location": "C:\\Users\\twin\\Downloads\\Clean Fivem external\\x64\\Debug\\Fivem-External.obj",
+          "logDate": "2026-04-23 22:42:30"
+        },
+        {
+          "name": "External Cheat Detected",
+          "type": "grave",
+          "description": "Arquivo encontrado: fivem-external.vcxproj.filelistabsolute.txt",
+          "location": "C:\\Users\\twin\\Downloads\\Clean Fivem external\\x64\\Debug\\Fivem-External.vcxproj.FileListAbsolute.txt",
+          "logDate": "2026-04-23 22:42:30"
+        },
+        {
+          "name": "External Cheat Detected",
+          "type": "grave",
+          "description": "Arquivo encontrado: fivem-external.log",
+          "location": "C:\\Users\\twin\\Downloads\\Clean Fivem external\\x64\\Release\\Fivem-External.log",
+          "logDate": "2026-04-23 22:42:30"
+        },
+        {
+          "name": "External Cheat Detected",
+          "type": "grave",
+          "description": "Arquivo encontrado: fivem-external.obj",
+          "location": "C:\\Users\\twin\\Downloads\\Clean Fivem external\\x64\\Release\\Fivem-External.obj",
+          "logDate": "2026-04-23 22:42:30"
+        },
+        {
+          "name": "External Cheat Detected",
+          "type": "grave",
+          "description": "Arquivo encontrado: fivem-external.vcxproj.filelistabsolute.txt",
+          "location": "C:\\Users\\twin\\Downloads\\Clean Fivem external\\x64\\Release\\Fivem-External.vcxproj.FileListAbsolute.txt",
+          "logDate": "2026-04-23 22:42:30"
+        },
+        {
+          "name": "Internal Cheat Detected",
+          "type": "grave",
+          "description": "Arquivo encontrado: imgui_internal.h",
+          "location": "C:\\Users\\twin\\Downloads\\clin\\Client\\ImGui\\imgui_internal.h",
+          "logDate": "2026-04-23 22:42:30"
+        },
+        {
+          "name": "External Cheat Detected",
+          "type": "grave",
+          "description": "Arquivo encontrado: fivem-external.sln",
+          "location": "C:\\Users\\twin\\Downloads\\js\\js\\cellphone\\Fivem-External.sln",
+          "logDate": "2026-04-23 22:42:30"
+        },
+        {
+          "name": "External Cheat Detected",
+          "type": "grave",
+          "description": "Arquivo encontrado: external.cpp",
+          "location": "C:\\Users\\twin\\Downloads\\Thunder\\THUNDER\\External\\External.cpp",
+          "logDate": "2026-04-23 22:42:30"
+        },
+        {
+          "name": "External Cheat Detected",
+          "type": "grave",
+          "description": "Arquivo encontrado: external.hpp",
+          "location": "C:\\Users\\twin\\Downloads\\Thunder\\THUNDER\\External\\External.hpp",
+          "logDate": "2026-04-23 22:42:30"
+        },
+        {
+          "name": "External Cheat Detected",
+          "type": "grave",
+          "description": "Arquivo encontrado: external.vcxproj",
+          "location": "C:\\Users\\twin\\Downloads\\Thunder\\THUNDER\\External\\External.vcxproj",
+          "logDate": "2026-04-23 22:42:30"
+        },
+        {
+          "name": "External Cheat Detected",
+          "type": "grave",
+          "description": "Arquivo encontrado: external.vcxproj.filters",
+          "location": "C:\\Users\\twin\\Downloads\\Thunder\\THUNDER\\External\\External.vcxproj.filters",
+          "logDate": "2026-04-23 22:42:30"
+        },
+        {
+          "name": "External Cheat Detected",
+          "type": "grave",
+          "description": "Arquivo encontrado: external.vcxproj.user",
+          "location": "C:\\Users\\twin\\Downloads\\Thunder\\THUNDER\\External\\External.vcxproj.user",
+          "logDate": "2026-04-23 22:42:30"
+        },
+        {
+          "name": "External Cheat Detected",
+          "type": "grave",
+          "description": "Arquivo encontrado: fivem-external.log",
+          "location": "C:\\Users\\twin\\Downloads\\9z\\9z\\Fivem-External\\Release\\Fivem-External.log",
+          "logDate": "2026-04-23 22:42:30"
+        },
+        {
+          "name": "External Cheat Detected",
+          "type": "grave",
+          "description": "Arquivo encontrado: fivem-external.exe",
+          "location": "C:\\Users\\twin\\Downloads\\9z\\9z\\x64\\Debug\\Fivem-External.exe",
+          "logDate": "2026-04-23 22:42:30"
+        },
+        {
+          "name": "External Cheat Detected",
+          "type": "grave",
+          "description": "Arquivo encontrado: fivem-external.pdb",
+          "location": "C:\\Users\\twin\\Downloads\\9z\\9z\\x64\\Debug\\Fivem-External.pdb",
+          "logDate": "2026-04-23 22:42:30"
+        },
+        {
+          "name": "External Cheat Detected",
+          "type": "grave",
+          "description": "Arquivo encontrado: fivem-external.exe",
+          "location": "C:\\Users\\twin\\Downloads\\AstraPVP\\AstraPVP\\x64\\Release\\Fivem-External.exe",
+          "logDate": "2026-04-23 22:42:30"
+        },
+        {
+          "name": "External Cheat Detected",
+          "type": "grave",
+          "description": "Arquivo encontrado: fivem-external.pdb",
+          "location": "C:\\Users\\twin\\Downloads\\AstraPVP\\AstraPVP\\x64\\Release\\Fivem-External.pdb",
+          "logDate": "2026-04-23 22:42:30"
+        },
+        {
+          "name": "External Cheat Detected: astrapvp.rar",
+          "type": "grave",
+          "description": "Arquivo encontrado: astrapvp.lnk",
+          "location": "C:\\Users\\twin\\AppData\\Roaming\\Microsoft\\Windows\\Recent\\AstraPVP.lnk",
+          "logDate": "2026-04-23 22:42:30"
+        },
+        {
+          "name": "Cheat Detected",
+          "type": "grave",
+          "description": "Arquivo encontrado: astrapvp.lnk",
+          "location": "C:\\Users\\twin\\AppData\\Roaming\\Microsoft\\Windows\\Recent\\AstraPVP.lnk",
+          "logDate": "2026-04-23 22:42:30"
+        },
+        {
+          "name": "External Cheat Detected",
+          "type": "grave",
+          "description": "Arquivo encontrado: clean fivem external.lnk",
+          "location": "C:\\Users\\twin\\AppData\\Roaming\\Microsoft\\Windows\\Recent\\Clean Fivem external.lnk",
+          "logDate": "2026-04-23 22:42:30"
+        },
+        {
+          "name": "External Cheat Detected",
+          "type": "grave",
+          "description": "Arquivo encontrado: external.sln.lnk",
+          "location": "C:\\Users\\twin\\AppData\\Roaming\\Microsoft\\Windows\\Recent\\External.sln.lnk",
+          "logDate": "2026-04-23 22:42:30"
+        },
+        {
+          "name": "External Cheat Detected",
+          "type": "grave",
+          "description": "Arquivo encontrado: fivem-external-diamond-service #7.sln.lnk",
+          "location": "C:\\Users\\twin\\AppData\\Roaming\\Microsoft\\Windows\\Recent\\fivem-external-diamond-service #7.sln.lnk",
+          "logDate": "2026-04-23 22:42:30"
+        },
+        {
+          "name": "External Cheat Detected",
+          "type": "grave",
+          "description": "Arquivo encontrado: fivem-external.cpp.lnk",
+          "location": "C:\\Users\\twin\\AppData\\Roaming\\Microsoft\\Windows\\Recent\\Fivem-External.cpp.lnk",
+          "logDate": "2026-04-23 22:42:30"
+        },
+        {
+          "name": "External Cheat Detected",
+          "type": "grave",
+          "description": "Arquivo encontrado: fivem-external.sln.lnk",
+          "location": "C:\\Users\\twin\\AppData\\Roaming\\Microsoft\\Windows\\Recent\\Fivem-External.sln.lnk",
+          "logDate": "2026-04-23 22:42:30"
+        },
+        {
+          "name": "Internal Cheat Detected",
+          "type": "grave",
+          "description": "Arquivo encontrado: internal.sln.lnk",
+          "location": "C:\\Users\\twin\\AppData\\Roaming\\Microsoft\\Windows\\Recent\\Internal.sln.lnk",
+          "logDate": "2026-04-23 22:42:30"
+        },
+        {
+          "name": "Internal Cheat Detected",
+          "type": "grave",
+          "description": "Arquivo encontrado: mix-fivem-internal.sln.lnk",
+          "location": "C:\\Users\\twin\\AppData\\Roaming\\Microsoft\\Windows\\Recent\\Mix-Fivem-Internal.sln.lnk",
+          "logDate": "2026-04-23 22:42:30"
+        },
+        {
+          "name": "Internal Cheat Detected",
+          "type": "grave",
+          "description": "Arquivo encontrado: mix.internal.lnk",
+          "location": "C:\\Users\\twin\\AppData\\Roaming\\Microsoft\\Windows\\Recent\\mix.internal.lnk",
+          "logDate": "2026-04-23 22:42:30"
+        },
+        {
+          "name": "Internal Cheat Detected",
+          "type": "grave",
+          "description": "Arquivo encontrado: mixinternal.lnk",
+          "location": "C:\\Users\\twin\\AppData\\Roaming\\Microsoft\\Windows\\Recent\\mixinternal.lnk",
+          "logDate": "2026-04-23 22:42:30"
+        },
+        {
+          "name": "Bypass method detected",
+          "type": "grave",
+          "description": "Arquivo encontrado: skull bypass.lnk",
+          "location": "C:\\Users\\twin\\AppData\\Roaming\\Microsoft\\Windows\\Recent\\Skull Bypass.lnk",
+          "logDate": "2026-04-23 22:42:30"
+        },
+        {
+          "name": "Bypass method detected",
+          "type": "grave",
+          "description": "Arquivo encontrado: skull bypass.slnx.lnk",
+          "location": "C:\\Users\\twin\\AppData\\Roaming\\Microsoft\\Windows\\Recent\\Skull Bypass.slnx.lnk",
+          "logDate": "2026-04-23 22:42:30"
+        },
+        {
+          "name": "Internal Cheat Detected",
+          "type": "grave",
+          "description": "Arquivo encontrado: dd_setup_20260421022615_007_microsoft.visualstudio.uiinternal.resources.log",
+          "location": "C:\\Users\\twin\\AppData\\Local\\Temp\\dd_setup_20260421022615_007_Microsoft.VisualStudio.UIInternal.Resources.log",
+          "logDate": "2026-04-23 22:42:30"
+        },
+        {
+          "name": "Internal Cheat Detected",
+          "type": "grave",
+          "description": "Arquivo encontrado: dd_setup_20260421022615_008_microsoft.visualstudio.uiinternal.log",
+          "location": "C:\\Users\\twin\\AppData\\Local\\Temp\\dd_setup_20260421022615_008_Microsoft.VisualStudio.UIInternal.log",
+          "logDate": "2026-04-23 22:42:30"
+        },
+        {
+          "name": "Internal Cheat Detected",
+          "type": "grave",
+          "description": "Arquivo encontrado: dd_setup_20260421022615_009_microsoft.visualstudio.uiinternal.guide.log",
+          "location": "C:\\Users\\twin\\AppData\\Local\\Temp\\dd_setup_20260421022615_009_Microsoft.VisualStudio.UIInternal.Guide.log",
+          "logDate": "2026-04-23 22:42:30"
+        },
+        {
+          "name": "External Cheat Detected",
+          "type": "grave",
+          "description": "Arquivo encontrado: dd_setup_20260421022615_381_microsoft.diagnosticshub.collection.externaldependencies.x64.log",
+          "location": "C:\\Users\\twin\\AppData\\Local\\Temp\\dd_setup_20260421022615_381_Microsoft.DiagnosticsHub.Collection.ExternalDependencies.x64.log",
+          "logDate": "2026-04-23 22:42:30"
+        },
+        {
+          "name": "External Cheat Detected",
+          "type": "grave",
+          "description": "Arquivo encontrado: dd_setup_20260421022615_382_microsoft.diagnosticshub.runtime.externaldependencies.targeted.log",
+          "location": "C:\\Users\\twin\\AppData\\Local\\Temp\\dd_setup_20260421022615_382_Microsoft.DiagnosticsHub.Runtime.ExternalDependencies.Targeted.log",
+          "logDate": "2026-04-23 22:42:30"
+        },
+        {
+          "name": "External Cheat Detected",
+          "type": "grave",
+          "description": "Arquivo encontrado: dd_setup_20260421022615_385_microsoft.diagnosticshub.runtime.externaldependencies.log",
+          "location": "C:\\Users\\twin\\AppData\\Local\\Temp\\dd_setup_20260421022615_385_Microsoft.DiagnosticsHub.Runtime.ExternalDependencies.log",
+          "logDate": "2026-04-23 22:42:30"
+        },
+        {
+          "name": "External Cheat Detected",
+          "type": "grave",
+          "description": "Arquivo encontrado: dd_setup_20260421022615_624_microsoft.visualstudio.vc.externalbuildframework.resources.log",
+          "location": "C:\\Users\\twin\\AppData\\Local\\Temp\\dd_setup_20260421022615_624_Microsoft.VisualStudio.VC.ExternalBuildFramework.Resources.log",
+          "logDate": "2026-04-23 22:42:30"
+        },
+        {
+          "name": "External Cheat Detected",
+          "type": "grave",
+          "description": "Arquivo encontrado: dd_setup_20260421022615_625_microsoft.visualstudio.vc.externalbuildframework.log",
+          "location": "C:\\Users\\twin\\AppData\\Local\\Temp\\dd_setup_20260421022615_625_Microsoft.VisualStudio.VC.ExternalBuildFramework.log",
+          "logDate": "2026-04-23 22:42:30"
+        },
+        {
+          "name": "Internal Cheat Detected",
+          "type": "grave",
+          "description": "Arquivo encontrado: dd_setup_20260421163639_049_microsoft.visualstudio.wpf.internal.log",
+          "location": "C:\\Users\\twin\\AppData\\Local\\Temp\\dd_setup_20260421163639_049_Microsoft.VisualStudio.WPF.Internal.log",
+          "logDate": "2026-04-23 22:42:30"
+        },
+        {
+          "name": "Internal Cheat Detected",
+          "type": "grave",
+          "description": "Arquivo encontrado: dd_setup_20260421163639_052_microsoft.visualstudio.wpf.internal.log",
+          "location": "C:\\Users\\twin\\AppData\\Local\\Temp\\dd_setup_20260421163639_052_Microsoft.VisualStudio.WPF.Internal.log",
+          "logDate": "2026-04-23 22:42:30"
+        },
+        {
+          "name": "Epic Games Launcher Without Signature",
+          "type": "grave",
+          "description": "Arquivo encontrado: epicgameslauncher.exe-a8ee2bae.pf",
+          "location": "C:\\Windows\\Prefetch\\EPICGAMESLAUNCHER.EXE-A8EE2BAE.pf",
+          "logDate": "2026-04-23 22:42:30"
+        },
+        {
+          "name": "External Cheat Detected",
+          "type": "grave",
+          "description": "Arquivo encontrado: fivem-external.exe-8ed93bbf.pf",
+          "location": "C:\\Windows\\Prefetch\\FIVEM-EXTERNAL.EXE-8ED93BBF.pf",
+          "logDate": "2026-04-23 22:42:30"
+        },
+        {
+          "name": "Suspicious file Execute",
+          "type": "grave",
+          "description": "Arquivo encontrado: rundll32.exe-0710b17e.pf",
+          "location": "C:\\Windows\\Prefetch\\RUNDLL32.EXE-0710B17E.pf",
+          "logDate": "2026-04-23 22:42:30"
+        },
+        {
+          "name": "Suspicious file Execute",
+          "type": "grave",
+          "description": "Arquivo encontrado: rundll32.exe-36d847e4.pf",
+          "location": "C:\\Windows\\Prefetch\\RUNDLL32.EXE-36D847E4.pf",
+          "logDate": "2026-04-23 22:42:30"
+        },
+        {
+          "name": "Suspicious file Execute",
+          "type": "grave",
+          "description": "Arquivo encontrado: rundll32.exe-75313621.pf",
+          "location": "C:\\Windows\\Prefetch\\RUNDLL32.EXE-75313621.pf",
+          "logDate": "2026-04-23 22:42:30"
+        },
+        {
+          "name": "Suspicious file Execute",
+          "type": "grave",
+          "description": "Arquivo encontrado: rundll32.exe-783e15e8.pf",
+          "location": "C:\\Windows\\Prefetch\\RUNDLL32.EXE-783E15E8.pf",
+          "logDate": "2026-04-23 22:42:30"
+        },
+        {
+          "name": "Suspicious file Execute",
+          "type": "grave",
+          "description": "Arquivo encontrado: rundll32.exe-82bef91b.pf",
+          "location": "C:\\Windows\\Prefetch\\RUNDLL32.EXE-82BEF91B.pf",
+          "logDate": "2026-04-23 22:42:30"
+        },
+        {
+          "name": "Suspicious file Execute",
+          "type": "grave",
+          "description": "Arquivo encontrado: rundll32.exe-aaa235ab.pf",
+          "location": "C:\\Windows\\Prefetch\\RUNDLL32.EXE-AAA235AB.pf",
+          "logDate": "2026-04-23 22:42:30"
+        },
+        {
+          "name": "Suspicious file Execute",
+          "type": "grave",
+          "description": "Arquivo encontrado: rundll32.exe-b7307d09.pf",
+          "location": "C:\\Windows\\Prefetch\\RUNDLL32.EXE-B7307D09.pf",
+          "logDate": "2026-04-23 22:42:30"
+        },
+        {
+          "name": "Suspicious file Execute",
+          "type": "grave",
+          "description": "Arquivo encontrado: rundll32.exe-c1e41d39.pf",
+          "location": "C:\\Windows\\Prefetch\\RUNDLL32.EXE-C1E41D39.pf",
+          "logDate": "2026-04-23 22:42:30"
+        },
+        {
+          "name": "Suspicious file Execute",
+          "type": "grave",
+          "description": "Arquivo encontrado: rundll32.exe-e3f86d3f.pf",
+          "location": "C:\\Windows\\Prefetch\\RUNDLL32.EXE-E3F86D3F.pf",
+          "logDate": "2026-04-23 22:42:30"
+        },
+        {
+          "name": "Bypass method detected",
+          "type": "grave",
+          "description": "Arquivo encontrado: skull bypass.exe-73a829ac.pf",
+          "location": "C:\\Windows\\Prefetch\\SKULL BYPASS.EXE-73A829AC.pf",
+          "logDate": "2026-04-23 22:42:30"
+        },
+        {
+          "name": "Winter bypass detected",
+          "type": "grave",
+          "description": "Arquivo encontrado: steamsysinfo.exe-63257559.pf",
+          "location": "C:\\Windows\\Prefetch\\STEAMSYSINFO.EXE-63257559.pf",
+          "logDate": "2026-04-23 22:42:30"
+        },
+        {
+          "name": "External Cheat Detected",
+          "type": "grave",
+          "description": "Arquivo encontrado: fivem-external.exe.12124.dmp",
+          "location": "C:\\Users\\twin\\AppData\\Local\\CrashDumps\\Fivem-External.exe.12124.dmp",
+          "logDate": "2026-04-23 22:42:30"
+        },
+        {
+          "name": "Winter bypass detected",
+          "type": "grave",
+          "description": "Arquivo encontrado: steamsysinfo.exe",
+          "location": "C:\\Program Files (x86)\\Steam\\steamsysinfo.exe",
+          "logDate": "2026-04-23 22:42:30"
+        },
+        {
+          "name": "eventvwr cleaned",
+          "type": "grave",
+          "description": "Log do Event Viewer possivelmente limpo: HardwareEvents.evtx",
+          "location": "C:\\Windows\\System32\\winevt\\Logs\\HardwareEvents.evtx",
+          "logDate": "2026-04-23 22:42:30"
+        },
+        {
+          "name": "eventvwr cleaned",
+          "type": "grave",
+          "description": "Log do Event Viewer possivelmente limpo: Internet Explorer.evtx",
+          "location": "C:\\Windows\\System32\\winevt\\Logs\\Internet Explorer.evtx",
+          "logDate": "2026-04-23 22:42:30"
+        },
+        {
+          "name": "eventvwr cleaned",
+          "type": "grave",
+          "description": "Log do Event Viewer possivelmente limpo: Key Management Service.evtx",
+          "location": "C:\\Windows\\System32\\winevt\\Logs\\Key Management Service.evtx",
+          "logDate": "2026-04-23 22:42:30"
+        },
+        {
+          "name": "eventvwr cleaned",
+          "type": "grave",
+          "description": "Log do Event Viewer possivelmente limpo: Microsoft-Client-License-ESU%4Admin.evtx",
+          "location": "C:\\Windows\\System32\\winevt\\Logs\\Microsoft-Client-License-ESU%4Admin.evtx",
+          "logDate": "2026-04-23 22:42:30"
+        },
+        {
+          "name": "eventvwr cleaned",
+          "type": "grave",
+          "description": "Log do Event Viewer possivelmente limpo: Microsoft-Windows-AAD%4Operational.evtx",
+          "location": "C:\\Windows\\System32\\winevt\\Logs\\Microsoft-Windows-AAD%4Operational.evtx",
+          "logDate": "2026-04-23 22:42:30"
+        },
+        {
+          "name": "eventvwr cleaned",
+          "type": "grave",
+          "description": "Log do Event Viewer possivelmente limpo: Microsoft-Windows-Application-Experience%4Program-Compatibility-Assistant.evtx",
+          "location": "C:\\Windows\\System32\\winevt\\Logs\\Microsoft-Windows-Application-Experience%4Program-Compatibility-Assistant.evtx",
+          "logDate": "2026-04-23 22:42:30"
+        },
+        {
+          "name": "eventvwr cleaned",
+          "type": "grave",
+          "description": "Log do Event Viewer possivelmente limpo: Microsoft-Windows-Application-Experience%4Program-Compatibility-Troubleshooter.evtx",
+          "location": "C:\\Windows\\System32\\winevt\\Logs\\Microsoft-Windows-Application-Experience%4Program-Compatibility-Troubleshooter.evtx",
+          "logDate": "2026-04-23 22:42:30"
+        },
+        {
+          "name": "eventvwr cleaned",
+          "type": "grave",
+          "description": "Log do Event Viewer possivelmente limpo: Microsoft-Windows-Application-Experience%4Program-Inventory.evtx",
+          "location": "C:\\Windows\\System32\\winevt\\Logs\\Microsoft-Windows-Application-Experience%4Program-Inventory.evtx",
+          "logDate": "2026-04-23 22:42:30"
+        },
+        {
+          "name": "eventvwr cleaned",
+          "type": "grave",
+          "description": "Log do Event Viewer possivelmente limpo: Microsoft-Windows-Application-Experience%4Steps-Recorder.evtx",
+          "location": "C:\\Windows\\System32\\winevt\\Logs\\Microsoft-Windows-Application-Experience%4Steps-Recorder.evtx",
+          "logDate": "2026-04-23 22:42:30"
+        },
+        {
+          "name": "eventvwr cleaned",
+          "type": "grave",
+          "description": "Log do Event Viewer possivelmente limpo: Microsoft-Windows-AppReadiness%4Operational.evtx",
+          "location": "C:\\Windows\\System32\\winevt\\Logs\\Microsoft-Windows-AppReadiness%4Operational.evtx",
+          "logDate": "2026-04-23 22:42:30"
+        },
+        {
+          "name": "eventvwr cleaned",
+          "type": "grave",
+          "description": "Log do Event Viewer possivelmente limpo: Microsoft-Windows-AppXDeployment-Server%4Operational.evtx",
+          "location": "C:\\Windows\\System32\\winevt\\Logs\\Microsoft-Windows-AppXDeployment-Server%4Operational.evtx",
+          "logDate": "2026-04-23 22:42:30"
+        },
+        {
+          "name": "eventvwr cleaned",
+          "type": "grave",
+          "description": "Log do Event Viewer possivelmente limpo: Microsoft-Windows-AppXDeploymentServer%4Restricted.evtx",
+          "location": "C:\\Windows\\System32\\winevt\\Logs\\Microsoft-Windows-AppXDeploymentServer%4Restricted.evtx",
+          "logDate": "2026-04-23 22:42:30"
+        },
+        {
+          "name": "eventvwr cleaned",
+          "type": "grave",
+          "description": "Log do Event Viewer possivelmente limpo: Microsoft-Windows-Audio%4CaptureMonitor.evtx",
+          "location": "C:\\Windows\\System32\\winevt\\Logs\\Microsoft-Windows-Audio%4CaptureMonitor.evtx",
+          "logDate": "2026-04-23 22:42:30"
+        },
+        {
+          "name": "eventvwr cleaned",
+          "type": "grave",
+          "description": "Log do Event Viewer possivelmente limpo: Microsoft-Windows-Audio%4PlaybackManager.evtx",
+          "location": "C:\\Windows\\System32\\winevt\\Logs\\Microsoft-Windows-Audio%4PlaybackManager.evtx",
+          "logDate": "2026-04-23 22:42:30"
+        },
+        {
+          "name": "eventvwr cleaned",
+          "type": "grave",
+          "description": "Log do Event Viewer possivelmente limpo: Microsoft-Windows-Authentication User Interface%4Operational.evtx",
+          "location": "C:\\Windows\\System32\\winevt\\Logs\\Microsoft-Windows-Authentication User Interface%4Operational.evtx",
+          "logDate": "2026-04-23 22:42:30"
+        },
+        {
+          "name": "eventvwr cleaned",
+          "type": "grave",
+          "description": "Log do Event Viewer possivelmente limpo: Microsoft-Windows-BackgroundTaskInfrastructure%4Operational.evtx",
+          "location": "C:\\Windows\\System32\\winevt\\Logs\\Microsoft-Windows-BackgroundTaskInfrastructure%4Operational.evtx",
+          "logDate": "2026-04-23 22:42:30"
+        },
+        {
+          "name": "eventvwr cleaned",
+          "type": "grave",
+          "description": "Log do Event Viewer possivelmente limpo: Microsoft-Windows-Biometrics%4Operational.evtx",
+          "location": "C:\\Windows\\System32\\winevt\\Logs\\Microsoft-Windows-Biometrics%4Operational.evtx",
+          "logDate": "2026-04-23 22:42:30"
+        },
+        {
+          "name": "eventvwr cleaned",
+          "type": "grave",
+          "description": "Log do Event Viewer possivelmente limpo: Microsoft-Windows-BitLocker%4BitLocker Management.evtx",
+          "location": "C:\\Windows\\System32\\winevt\\Logs\\Microsoft-Windows-BitLocker%4BitLocker Management.evtx",
+          "logDate": "2026-04-23 22:42:30"
+        },
+        {
+          "name": "eventvwr cleaned",
+          "type": "grave",
+          "description": "Log do Event Viewer possivelmente limpo: Microsoft-Windows-CloudRestoreLauncher%4Operational.evtx",
+          "location": "C:\\Windows\\System32\\winevt\\Logs\\Microsoft-Windows-CloudRestoreLauncher%4Operational.evtx",
+          "logDate": "2026-04-23 22:42:30"
+        },
+        {
+          "name": "eventvwr cleaned",
+          "type": "grave",
+          "description": "Log do Event Viewer possivelmente limpo: Microsoft-Windows-CloudStore%4Initialization.evtx",
+          "location": "C:\\Windows\\System32\\winevt\\Logs\\Microsoft-Windows-CloudStore%4Initialization.evtx",
+          "logDate": "2026-04-23 22:42:30"
+        },
+        {
+          "name": "eventvwr cleaned",
+          "type": "grave",
+          "description": "Log do Event Viewer possivelmente limpo: Microsoft-Windows-CodeIntegrity%4Operational.evtx",
+          "location": "C:\\Windows\\System32\\winevt\\Logs\\Microsoft-Windows-CodeIntegrity%4Operational.evtx",
+          "logDate": "2026-04-23 22:42:30"
+        },
+        {
+          "name": "eventvwr cleaned",
+          "type": "grave",
+          "description": "Log do Event Viewer possivelmente limpo: Microsoft-Windows-Containers-BindFlt%4Operational.evtx",
+          "location": "C:\\Windows\\System32\\winevt\\Logs\\Microsoft-Windows-Containers-BindFlt%4Operational.evtx",
+          "logDate": "2026-04-23 22:42:30"
+        },
+        {
+          "name": "eventvwr cleaned",
+          "type": "grave",
+          "description": "Log do Event Viewer possivelmente limpo: Microsoft-Windows-Containers-Wcifs%4Operational.evtx",
+          "location": "C:\\Windows\\System32\\winevt\\Logs\\Microsoft-Windows-Containers-Wcifs%4Operational.evtx",
+          "logDate": "2026-04-23 22:42:30"
+        },
+        {
+          "name": "eventvwr cleaned",
+          "type": "grave",
+          "description": "Log do Event Viewer possivelmente limpo: Microsoft-Windows-Crypto-DPAPI%4BackUpKeySvc.evtx",
+          "location": "C:\\Windows\\System32\\winevt\\Logs\\Microsoft-Windows-Crypto-DPAPI%4BackUpKeySvc.evtx",
+          "logDate": "2026-04-23 22:42:30"
+        },
+        {
+          "name": "eventvwr cleaned",
+          "type": "grave",
+          "description": "Log do Event Viewer possivelmente limpo: Microsoft-Windows-Crypto-DPAPI%4Operational.evtx",
+          "location": "C:\\Windows\\System32\\winevt\\Logs\\Microsoft-Windows-Crypto-DPAPI%4Operational.evtx",
+          "logDate": "2026-04-23 22:42:30"
+        },
+        {
+          "name": "eventvwr cleaned",
+          "type": "grave",
+          "description": "Log do Event Viewer possivelmente limpo: Microsoft-Windows-DeviceManagement-Enterprise-Diagnostics-Provider%4Admin.evtx",
+          "location": "C:\\Windows\\System32\\winevt\\Logs\\Microsoft-Windows-DeviceManagement-Enterprise-Diagnostics-Provider%4Admin.evtx",
+          "logDate": "2026-04-23 22:42:30"
+        },
+        {
+          "name": "eventvwr cleaned",
+          "type": "grave",
+          "description": "Log do Event Viewer possivelmente limpo: Microsoft-Windows-DeviceManagement-Enterprise-Diagnostics-Provider%4Enrollment.evtx",
+          "location": "C:\\Windows\\System32\\winevt\\Logs\\Microsoft-Windows-DeviceManagement-Enterprise-Diagnostics-Provider%4Enrollment.evtx",
+          "logDate": "2026-04-23 22:42:30"
+        },
+        {
+          "name": "eventvwr cleaned",
+          "type": "grave",
+          "description": "Log do Event Viewer possivelmente limpo: Microsoft-Windows-DeviceManagement-Enterprise-Diagnostics-Provider%4Operational.evtx",
+          "location": "C:\\Windows\\System32\\winevt\\Logs\\Microsoft-Windows-DeviceManagement-Enterprise-Diagnostics-Provider%4Operational.evtx",
+          "logDate": "2026-04-23 22:42:30"
+        },
+        {
+          "name": "eventvwr cleaned",
+          "type": "grave",
+          "description": "Log do Event Viewer possivelmente limpo: Microsoft-Windows-DeviceManagement-Enterprise-Diagnostics-Provider%4Sync.evtx",
+          "location": "C:\\Windows\\System32\\winevt\\Logs\\Microsoft-Windows-DeviceManagement-Enterprise-Diagnostics-Provider%4Sync.evtx",
+          "logDate": "2026-04-23 22:42:30"
+        },
+        {
+          "name": "eventvwr cleaned",
+          "type": "grave",
+          "description": "Log do Event Viewer possivelmente limpo: Microsoft-Windows-DeviceSetupManager%4Operational.evtx",
+          "location": "C:\\Windows\\System32\\winevt\\Logs\\Microsoft-Windows-DeviceSetupManager%4Operational.evtx",
+          "logDate": "2026-04-23 22:42:30"
+        },
+        {
+          "name": "eventvwr cleaned",
+          "type": "grave",
+          "description": "Log do Event Viewer possivelmente limpo: Microsoft-Windows-Dhcp-Client%4Admin.evtx",
+          "location": "C:\\Windows\\System32\\winevt\\Logs\\Microsoft-Windows-Dhcp-Client%4Admin.evtx",
+          "logDate": "2026-04-23 22:42:30"
+        },
+        {
+          "name": "eventvwr cleaned",
+          "type": "grave",
+          "description": "Log do Event Viewer possivelmente limpo: Microsoft-Windows-Dhcpv6-Client%4Admin.evtx",
+          "location": "C:\\Windows\\System32\\winevt\\Logs\\Microsoft-Windows-Dhcpv6-Client%4Admin.evtx",
+          "logDate": "2026-04-23 22:42:30"
+        },
+        {
+          "name": "eventvwr cleaned",
+          "type": "grave",
+          "description": "Log do Event Viewer possivelmente limpo: Microsoft-Windows-Diagnosis-Scheduled%4Operational.evtx",
+          "location": "C:\\Windows\\System32\\winevt\\Logs\\Microsoft-Windows-Diagnosis-Scheduled%4Operational.evtx",
+          "logDate": "2026-04-23 22:42:30"
+        },
+        {
+          "name": "eventvwr cleaned",
+          "type": "grave",
+          "description": "Log do Event Viewer possivelmente limpo: Microsoft-Windows-Diagnostics-Performance%4Operational.evtx",
+          "location": "C:\\Windows\\System32\\winevt\\Logs\\Microsoft-Windows-Diagnostics-Performance%4Operational.evtx",
+          "logDate": "2026-04-23 22:42:30"
+        },
+        {
+          "name": "eventvwr cleaned",
+          "type": "grave",
+          "description": "Log do Event Viewer possivelmente limpo: Microsoft-Windows-Fault-Tolerant-Heap%4Operational.evtx",
+          "location": "C:\\Windows\\System32\\winevt\\Logs\\Microsoft-Windows-Fault-Tolerant-Heap%4Operational.evtx",
+          "logDate": "2026-04-23 22:42:30"
+        },
+        {
+          "name": "eventvwr cleaned",
+          "type": "grave",
+          "description": "Log do Event Viewer possivelmente limpo: Microsoft-Windows-FileHistory-Core%4WHC.evtx",
+          "location": "C:\\Windows\\System32\\winevt\\Logs\\Microsoft-Windows-FileHistory-Core%4WHC.evtx",
+          "logDate": "2026-04-23 22:42:30"
+        },
+        {
+          "name": "eventvwr cleaned",
+          "type": "grave",
+          "description": "Log do Event Viewer possivelmente limpo: Microsoft-Windows-HotspotAuth%4Operational.evtx",
+          "location": "C:\\Windows\\System32\\winevt\\Logs\\Microsoft-Windows-HotspotAuth%4Operational.evtx",
+          "logDate": "2026-04-23 22:42:30"
+        },
+        {
+          "name": "eventvwr cleaned",
+          "type": "grave",
+          "description": "Log do Event Viewer possivelmente limpo: Microsoft-Windows-IKE%4Operational.evtx",
+          "location": "C:\\Windows\\System32\\winevt\\Logs\\Microsoft-Windows-IKE%4Operational.evtx",
+          "logDate": "2026-04-23 22:42:30"
+        },
+        {
+          "name": "eventvwr cleaned",
+          "type": "grave",
+          "description": "Log do Event Viewer possivelmente limpo: Microsoft-Windows-Kernel-Boot%4Operational.evtx",
+          "location": "C:\\Windows\\System32\\winevt\\Logs\\Microsoft-Windows-Kernel-Boot%4Operational.evtx",
+          "logDate": "2026-04-23 22:42:30"
+        },
+        {
+          "name": "eventvwr cleaned",
+          "type": "grave",
+          "description": "Log do Event Viewer possivelmente limpo: Microsoft-Windows-Kernel-EventTracing%4Admin.evtx",
+          "location": "C:\\Windows\\System32\\winevt\\Logs\\Microsoft-Windows-Kernel-EventTracing%4Admin.evtx",
+          "logDate": "2026-04-23 22:42:30"
+        },
+        {
+          "name": "eventvwr cleaned",
+          "type": "grave",
+          "description": "Log do Event Viewer possivelmente limpo: Microsoft-Windows-Kernel-PnP%4Driver Watchdog.evtx",
+          "location": "C:\\Windows\\System32\\winevt\\Logs\\Microsoft-Windows-Kernel-PnP%4Driver Watchdog.evtx",
+          "logDate": "2026-04-23 22:42:30"
+        },
+        {
+          "name": "eventvwr cleaned",
+          "type": "grave",
+          "description": "Log do Event Viewer possivelmente limpo: Microsoft-Windows-Kernel-Power%4Thermal-Operational.evtx",
+          "location": "C:\\Windows\\System32\\winevt\\Logs\\Microsoft-Windows-Kernel-Power%4Thermal-Operational.evtx",
+          "logDate": "2026-04-23 22:42:30"
+        },
+        {
+          "name": "eventvwr cleaned",
+          "type": "grave",
+          "description": "Log do Event Viewer possivelmente limpo: Microsoft-Windows-Kernel-StoreMgr%4Operational.evtx",
+          "location": "C:\\Windows\\System32\\winevt\\Logs\\Microsoft-Windows-Kernel-StoreMgr%4Operational.evtx",
+          "logDate": "2026-04-23 22:42:30"
+        },
+        {
+          "name": "eventvwr cleaned",
+          "type": "grave",
+          "description": "Log do Event Viewer possivelmente limpo: Microsoft-Windows-Kernel-WHEA%4Errors.evtx",
+          "location": "C:\\Windows\\System32\\winevt\\Logs\\Microsoft-Windows-Kernel-WHEA%4Errors.evtx",
+          "logDate": "2026-04-23 22:42:30"
+        },
+        {
+          "name": "eventvwr cleaned",
+          "type": "grave",
+          "description": "Log do Event Viewer possivelmente limpo: Microsoft-Windows-LanguagePackSetup%4Operational.evtx",
+          "location": "C:\\Windows\\System32\\winevt\\Logs\\Microsoft-Windows-LanguagePackSetup%4Operational.evtx",
+          "logDate": "2026-04-23 22:42:30"
+        },
+        {
+          "name": "eventvwr cleaned",
+          "type": "grave",
+          "description": "Log do Event Viewer possivelmente limpo: Microsoft-Windows-ModernDeployment-Diagnostics-Provider%4Admin.evtx",
+          "location": "C:\\Windows\\System32\\winevt\\Logs\\Microsoft-Windows-ModernDeployment-Diagnostics-Provider%4Admin.evtx",
+          "logDate": "2026-04-23 22:42:30"
+        },
+        {
+          "name": "eventvwr cleaned",
+          "type": "grave",
+          "description": "Log do Event Viewer possivelmente limpo: Microsoft-Windows-ModernDeployment-Diagnostics-Provider%4Autopilot.evtx",
+          "location": "C:\\Windows\\System32\\winevt\\Logs\\Microsoft-Windows-ModernDeployment-Diagnostics-Provider%4Autopilot.evtx",
+          "logDate": "2026-04-23 22:42:30"
+        },
+        {
+          "name": "eventvwr cleaned",
+          "type": "grave",
+          "description": "Log do Event Viewer possivelmente limpo: Microsoft-Windows-ModernDeployment-Diagnostics-Provider%4Diagnostics.evtx",
+          "location": "C:\\Windows\\System32\\winevt\\Logs\\Microsoft-Windows-ModernDeployment-Diagnostics-Provider%4Diagnostics.evtx",
+          "logDate": "2026-04-23 22:42:30"
+        },
+        {
+          "name": "eventvwr cleaned",
+          "type": "grave",
+          "description": "Log do Event Viewer possivelmente limpo: Microsoft-Windows-ModernDeployment-Diagnostics-Provider%4ManagementService.evtx",
+          "location": "C:\\Windows\\System32\\winevt\\Logs\\Microsoft-Windows-ModernDeployment-Diagnostics-Provider%4ManagementService.evtx",
+          "logDate": "2026-04-23 22:42:30"
+        },
+        {
+          "name": "eventvwr cleaned",
+          "type": "grave",
+          "description": "Log do Event Viewer possivelmente limpo: Microsoft-Windows-MUI%4Admin.evtx",
+          "location": "C:\\Windows\\System32\\winevt\\Logs\\Microsoft-Windows-MUI%4Admin.evtx",
+          "logDate": "2026-04-23 22:42:30"
+        },
+        {
+          "name": "eventvwr cleaned",
+          "type": "grave",
+          "description": "Log do Event Viewer possivelmente limpo: Microsoft-Windows-MUI%4Operational.evtx",
+          "location": "C:\\Windows\\System32\\winevt\\Logs\\Microsoft-Windows-MUI%4Operational.evtx",
+          "logDate": "2026-04-23 22:42:30"
+        },
+        {
+          "name": "eventvwr cleaned",
+          "type": "grave",
+          "description": "Log do Event Viewer possivelmente limpo: Microsoft-Windows-NCSI%4Operational.evtx",
+          "location": "C:\\Windows\\System32\\winevt\\Logs\\Microsoft-Windows-NCSI%4Operational.evtx",
+          "logDate": "2026-04-23 22:42:30"
+        },
+        {
+          "name": "eventvwr cleaned",
+          "type": "grave",
+          "description": "Log do Event Viewer possivelmente limpo: Microsoft-Windows-NetworkLocationWizard%4Operational.evtx",
+          "location": "C:\\Windows\\System32\\winevt\\Logs\\Microsoft-Windows-NetworkLocationWizard%4Operational.evtx",
+          "logDate": "2026-04-23 22:42:30"
+        },
+        {
+          "name": "eventvwr cleaned",
+          "type": "grave",
+          "description": "Log do Event Viewer possivelmente limpo: Microsoft-Windows-NlaSvc%4Operational.evtx",
+          "location": "C:\\Windows\\System32\\winevt\\Logs\\Microsoft-Windows-NlaSvc%4Operational.evtx",
+          "logDate": "2026-04-23 22:42:30"
+        },
+        {
+          "name": "eventvwr cleaned",
+          "type": "grave",
+          "description": "Log do Event Viewer possivelmente limpo: Microsoft-Windows-Ntfs%4Operational.evtx",
+          "location": "C:\\Windows\\System32\\winevt\\Logs\\Microsoft-Windows-Ntfs%4Operational.evtx",
+          "logDate": "2026-04-23 22:42:30"
+        },
+        {
+          "name": "eventvwr cleaned",
+          "type": "grave",
+          "description": "Log do Event Viewer possivelmente limpo: Microsoft-Windows-Ntfs%4WHC.evtx",
+          "location": "C:\\Windows\\System32\\winevt\\Logs\\Microsoft-Windows-Ntfs%4WHC.evtx",
+          "logDate": "2026-04-23 22:42:30"
+        },
+        {
+          "name": "eventvwr cleaned",
+          "type": "grave",
+          "description": "Log do Event Viewer possivelmente limpo: Microsoft-Windows-Partition%4Diagnostic.evtx",
+          "location": "C:\\Windows\\System32\\winevt\\Logs\\Microsoft-Windows-Partition%4Diagnostic.evtx",
+          "logDate": "2026-04-23 22:42:30"
+        },
+        {
+          "name": "eventvwr cleaned",
+          "type": "grave",
+          "description": "Log do Event Viewer possivelmente limpo: Microsoft-Windows-PowerShell%4Admin.evtx",
+          "location": "C:\\Windows\\System32\\winevt\\Logs\\Microsoft-Windows-PowerShell%4Admin.evtx",
+          "logDate": "2026-04-23 22:42:30"
+        },
+        {
+          "name": "eventvwr cleaned",
+          "type": "grave",
+          "description": "Log do Event Viewer possivelmente limpo: Microsoft-Windows-Program-Compatibility-Assistant%4CompatAfterUpgrade.evtx",
+          "location": "C:\\Windows\\System32\\winevt\\Logs\\Microsoft-Windows-Program-Compatibility-Assistant%4CompatAfterUpgrade.evtx",
+          "logDate": "2026-04-23 22:42:30"
+        },
+        {
+          "name": "eventvwr cleaned",
+          "type": "grave",
+          "description": "Log do Event Viewer possivelmente limpo: Microsoft-Windows-Provisioning-Diagnostics-Provider%4AutoPilot.evtx",
+          "location": "C:\\Windows\\System32\\winevt\\Logs\\Microsoft-Windows-Provisioning-Diagnostics-Provider%4AutoPilot.evtx",
+          "logDate": "2026-04-23 22:42:30"
+        },
+        {
+          "name": "eventvwr cleaned",
+          "type": "grave",
+          "description": "Log do Event Viewer possivelmente limpo: Microsoft-Windows-Provisioning-Diagnostics-Provider%4ManagementService.evtx",
+          "location": "C:\\Windows\\System32\\winevt\\Logs\\Microsoft-Windows-Provisioning-Diagnostics-Provider%4ManagementService.evtx",
+          "logDate": "2026-04-23 22:42:30"
+        },
+        {
+          "name": "eventvwr cleaned",
+          "type": "grave",
+          "description": "Log do Event Viewer possivelmente limpo: Microsoft-Windows-PushNotification-Platform%4Admin.evtx",
+          "location": "C:\\Windows\\System32\\winevt\\Logs\\Microsoft-Windows-PushNotification-Platform%4Admin.evtx",
+          "logDate": "2026-04-23 22:42:30"
+        },
+        {
+          "name": "eventvwr cleaned",
+          "type": "grave",
+          "description": "Log do Event Viewer possivelmente limpo: Microsoft-Windows-ReadyBoost%4Operational.evtx",
+          "location": "C:\\Windows\\System32\\winevt\\Logs\\Microsoft-Windows-ReadyBoost%4Operational.evtx",
+          "logDate": "2026-04-23 22:42:30"
+        },
+        {
+          "name": "eventvwr cleaned",
+          "type": "grave",
+          "description": "Log do Event Viewer possivelmente limpo: Microsoft-Windows-Regsvr32%4Operational.evtx",
+          "location": "C:\\Windows\\System32\\winevt\\Logs\\Microsoft-Windows-Regsvr32%4Operational.evtx",
+          "logDate": "2026-04-23 22:42:30"
+        },
+        {
+          "name": "eventvwr cleaned",
+          "type": "grave",
+          "description": "Log do Event Viewer possivelmente limpo: Microsoft-Windows-Resource-Exhaustion-Detector%4Operational.evtx",
+          "location": "C:\\Windows\\System32\\winevt\\Logs\\Microsoft-Windows-Resource-Exhaustion-Detector%4Operational.evtx",
+          "logDate": "2026-04-23 22:42:30"
+        },
+        {
+          "name": "eventvwr cleaned",
+          "type": "grave",
+          "description": "Log do Event Viewer possivelmente limpo: Microsoft-Windows-Resource-Exhaustion-Resolver%4Operational.evtx",
+          "location": "C:\\Windows\\System32\\winevt\\Logs\\Microsoft-Windows-Resource-Exhaustion-Resolver%4Operational.evtx",
+          "logDate": "2026-04-23 22:42:30"
+        },
+        {
+          "name": "eventvwr cleaned",
+          "type": "grave",
+          "description": "Log do Event Viewer possivelmente limpo: Microsoft-Windows-RestartManager%4Operational.evtx",
+          "location": "C:\\Windows\\System32\\winevt\\Logs\\Microsoft-Windows-RestartManager%4Operational.evtx",
+          "logDate": "2026-04-23 22:42:30"
+        },
+        {
+          "name": "eventvwr cleaned",
+          "type": "grave",
+          "description": "Log do Event Viewer possivelmente limpo: Microsoft-Windows-Security-LessPrivilegedAppContainer%4Operational.evtx",
+          "location": "C:\\Windows\\System32\\winevt\\Logs\\Microsoft-Windows-Security-LessPrivilegedAppContainer%4Operational.evtx",
+          "logDate": "2026-04-23 22:42:30"
+        },
+        {
+          "name": "eventvwr cleaned",
+          "type": "grave",
+          "description": "Log do Event Viewer possivelmente limpo: Microsoft-Windows-Security-Mitigations%4UserMode.evtx",
+          "location": "C:\\Windows\\System32\\winevt\\Logs\\Microsoft-Windows-Security-Mitigations%4UserMode.evtx",
+          "logDate": "2026-04-23 22:42:30"
+        },
+        {
+          "name": "eventvwr cleaned",
+          "type": "grave",
+          "description": "Log do Event Viewer possivelmente limpo: Microsoft-Windows-Security-SPP-UX-Notifications%4ActionCenter.evtx",
+          "location": "C:\\Windows\\System32\\winevt\\Logs\\Microsoft-Windows-Security-SPP-UX-Notifications%4ActionCenter.evtx",
+          "logDate": "2026-04-23 22:42:30"
+        },
+        {
+          "name": "eventvwr cleaned",
+          "type": "grave",
+          "description": "Log do Event Viewer possivelmente limpo: Microsoft-Windows-SettingSync%4Operational.evtx",
+          "location": "C:\\Windows\\System32\\winevt\\Logs\\Microsoft-Windows-SettingSync%4Operational.evtx",
+          "logDate": "2026-04-23 22:42:30"
+        },
+        {
+          "name": "eventvwr cleaned",
+          "type": "grave",
+          "description": "Log do Event Viewer possivelmente limpo: Microsoft-Windows-Shell-ConnectedAccountState%4ActionCenter.evtx",
+          "location": "C:\\Windows\\System32\\winevt\\Logs\\Microsoft-Windows-Shell-ConnectedAccountState%4ActionCenter.evtx",
+          "logDate": "2026-04-23 22:42:30"
+        },
+        {
+          "name": "eventvwr cleaned",
+          "type": "grave",
+          "description": "Log do Event Viewer possivelmente limpo: Microsoft-Windows-Shell-Core%4ActionCenter.evtx",
+          "location": "C:\\Windows\\System32\\winevt\\Logs\\Microsoft-Windows-Shell-Core%4ActionCenter.evtx",
+          "logDate": "2026-04-23 22:42:30"
+        },
+        {
+          "name": "eventvwr cleaned",
+          "type": "grave",
+          "description": "Log do Event Viewer possivelmente limpo: Microsoft-Windows-Shell-Core%4LogonTasksChannel.evtx",
+          "location": "C:\\Windows\\System32\\winevt\\Logs\\Microsoft-Windows-Shell-Core%4LogonTasksChannel.evtx",
+          "logDate": "2026-04-23 22:42:30"
+        },
+        {
+          "name": "eventvwr cleaned",
+          "type": "grave",
+          "description": "Log do Event Viewer possivelmente limpo: Microsoft-Windows-SmbClient%4Audit.evtx",
+          "location": "C:\\Windows\\System32\\winevt\\Logs\\Microsoft-Windows-SmbClient%4Audit.evtx",
+          "logDate": "2026-04-23 22:42:30"
+        },
+        {
+          "name": "eventvwr cleaned",
+          "type": "grave",
+          "description": "Log do Event Viewer possivelmente limpo: Microsoft-Windows-SMBClient%4Operational.evtx",
+          "location": "C:\\Windows\\System32\\winevt\\Logs\\Microsoft-Windows-SMBClient%4Operational.evtx",
+          "logDate": "2026-04-23 22:42:30"
+        },
+        {
+          "name": "eventvwr cleaned",
+          "type": "grave",
+          "description": "Log do Event Viewer possivelmente limpo: Microsoft-Windows-SmbClient%4Security.evtx",
+          "location": "C:\\Windows\\System32\\winevt\\Logs\\Microsoft-Windows-SmbClient%4Security.evtx",
+          "logDate": "2026-04-23 22:42:30"
+        },
+        {
+          "name": "eventvwr cleaned",
+          "type": "grave",
+          "description": "Log do Event Viewer possivelmente limpo: Microsoft-Windows-SMBServer%4Audit.evtx",
+          "location": "C:\\Windows\\System32\\winevt\\Logs\\Microsoft-Windows-SMBServer%4Audit.evtx",
+          "logDate": "2026-04-23 22:42:30"
+        },
+        {
+          "name": "eventvwr cleaned",
+          "type": "grave",
+          "description": "Log do Event Viewer possivelmente limpo: Microsoft-Windows-SMBServer%4Connectivity.evtx",
+          "location": "C:\\Windows\\System32\\winevt\\Logs\\Microsoft-Windows-SMBServer%4Connectivity.evtx",
+          "logDate": "2026-04-23 22:42:30"
+        },
+        {
+          "name": "eventvwr cleaned",
+          "type": "grave",
+          "description": "Log do Event Viewer possivelmente limpo: Microsoft-Windows-SMBServer%4Operational.evtx",
+          "location": "C:\\Windows\\System32\\winevt\\Logs\\Microsoft-Windows-SMBServer%4Operational.evtx",
+          "logDate": "2026-04-23 22:42:30"
+        },
+        {
+          "name": "eventvwr cleaned",
+          "type": "grave",
+          "description": "Log do Event Viewer possivelmente limpo: Microsoft-Windows-SMBServer%4Security.evtx",
+          "location": "C:\\Windows\\System32\\winevt\\Logs\\Microsoft-Windows-SMBServer%4Security.evtx",
+          "logDate": "2026-04-23 22:42:30"
+        },
+        {
+          "name": "eventvwr cleaned",
+          "type": "grave",
+          "description": "Log do Event Viewer possivelmente limpo: Microsoft-Windows-StateRepository%4Restricted.evtx",
+          "location": "C:\\Windows\\System32\\winevt\\Logs\\Microsoft-Windows-StateRepository%4Restricted.evtx",
+          "logDate": "2026-04-23 22:42:30"
+        },
+        {
+          "name": "eventvwr cleaned",
+          "type": "grave",
+          "description": "Log do Event Viewer possivelmente limpo: Microsoft-Windows-StorageSettings%4Diagnostic.evtx",
+          "location": "C:\\Windows\\System32\\winevt\\Logs\\Microsoft-Windows-StorageSettings%4Diagnostic.evtx",
+          "logDate": "2026-04-23 22:42:30"
+        },
+        {
+          "name": "eventvwr cleaned",
+          "type": "grave",
+          "description": "Log do Event Viewer possivelmente limpo: Microsoft-Windows-StorageSpaces-Driver%4Diagnostic.evtx",
+          "location": "C:\\Windows\\System32\\winevt\\Logs\\Microsoft-Windows-StorageSpaces-Driver%4Diagnostic.evtx",
+          "logDate": "2026-04-23 22:42:30"
+        },
+        {
+          "name": "eventvwr cleaned",
+          "type": "grave",
+          "description": "Log do Event Viewer possivelmente limpo: Microsoft-Windows-StorageSpaces-Driver%4Operational.evtx",
+          "location": "C:\\Windows\\System32\\winevt\\Logs\\Microsoft-Windows-StorageSpaces-Driver%4Operational.evtx",
+          "logDate": "2026-04-23 22:42:30"
+        },
+        {
+          "name": "eventvwr cleaned",
+          "type": "grave",
+          "description": "Log do Event Viewer possivelmente limpo: Microsoft-Windows-StorageSpaces-ManagementAgent%4WHC.evtx",
+          "location": "C:\\Windows\\System32\\winevt\\Logs\\Microsoft-Windows-StorageSpaces-ManagementAgent%4WHC.evtx",
+          "logDate": "2026-04-23 22:42:30"
+        },
+        {
+          "name": "eventvwr cleaned",
+          "type": "grave",
+          "description": "Log do Event Viewer possivelmente limpo: Microsoft-Windows-Storsvc%4Diagnostic.evtx",
+          "location": "C:\\Windows\\System32\\winevt\\Logs\\Microsoft-Windows-Storsvc%4Diagnostic.evtx",
+          "logDate": "2026-04-23 22:42:30"
+        },
+        {
+          "name": "eventvwr cleaned",
+          "type": "grave",
+          "description": "Log do Event Viewer possivelmente limpo: Microsoft-Windows-TaskScheduler%4Maintenance.evtx",
+          "location": "C:\\Windows\\System32\\winevt\\Logs\\Microsoft-Windows-TaskScheduler%4Maintenance.evtx",
+          "logDate": "2026-04-23 22:42:30"
+        },
+        {
+          "name": "eventvwr cleaned",
+          "type": "grave",
+          "description": "Log do Event Viewer possivelmente limpo: Microsoft-Windows-TerminalServices-LocalSessionManager%4Admin.evtx",
+          "location": "C:\\Windows\\System32\\winevt\\Logs\\Microsoft-Windows-TerminalServices-LocalSessionManager%4Admin.evtx",
+          "logDate": "2026-04-23 22:42:30"
+        },
+        {
+          "name": "eventvwr cleaned",
+          "type": "grave",
+          "description": "Log do Event Viewer possivelmente limpo: Microsoft-Windows-TerminalServices-LocalSessionManager%4Operational.evtx",
+          "location": "C:\\Windows\\System32\\winevt\\Logs\\Microsoft-Windows-TerminalServices-LocalSessionManager%4Operational.evtx",
+          "logDate": "2026-04-23 22:42:30"
+        },
+        {
+          "name": "eventvwr cleaned",
+          "type": "grave",
+          "description": "Log do Event Viewer possivelmente limpo: Microsoft-Windows-TWinUI%4Operational.evtx",
+          "location": "C:\\Windows\\System32\\winevt\\Logs\\Microsoft-Windows-TWinUI%4Operational.evtx",
+          "logDate": "2026-04-23 22:42:30"
+        },
+        {
+          "name": "eventvwr cleaned",
+          "type": "grave",
+          "description": "Log do Event Viewer possivelmente limpo: Microsoft-Windows-UAC%4Operational.evtx",
+          "location": "C:\\Windows\\System32\\winevt\\Logs\\Microsoft-Windows-UAC%4Operational.evtx",
+          "logDate": "2026-04-23 22:42:30"
+        },
+        {
+          "name": "eventvwr cleaned",
+          "type": "grave",
+          "description": "Log do Event Viewer possivelmente limpo: Microsoft-Windows-UAC-FileVirtualization%4Operational.evtx",
+          "location": "C:\\Windows\\System32\\winevt\\Logs\\Microsoft-Windows-UAC-FileVirtualization%4Operational.evtx",
+          "logDate": "2026-04-23 22:42:30"
+        },
+        {
+          "name": "eventvwr cleaned",
+          "type": "grave",
+          "description": "Log do Event Viewer possivelmente limpo: Microsoft-Windows-User Device Registration%4Admin.evtx",
+          "location": "C:\\Windows\\System32\\winevt\\Logs\\Microsoft-Windows-User Device Registration%4Admin.evtx",
+          "logDate": "2026-04-23 22:42:30"
+        },
+        {
+          "name": "eventvwr cleaned",
+          "type": "grave",
+          "description": "Log do Event Viewer possivelmente limpo: Microsoft-Windows-User Profile Service%4Operational.evtx",
+          "location": "C:\\Windows\\System32\\winevt\\Logs\\Microsoft-Windows-User Profile Service%4Operational.evtx",
+          "logDate": "2026-04-23 22:42:30"
+        },
+        {
+          "name": "eventvwr cleaned",
+          "type": "grave",
+          "description": "Log do Event Viewer possivelmente limpo: Microsoft-Windows-UserPnp%4ActionCenter.evtx",
+          "location": "C:\\Windows\\System32\\winevt\\Logs\\Microsoft-Windows-UserPnp%4ActionCenter.evtx",
+          "logDate": "2026-04-23 22:42:30"
+        },
+        {
+          "name": "eventvwr cleaned",
+          "type": "grave",
+          "description": "Log do Event Viewer possivelmente limpo: Microsoft-Windows-UserPnp%4DeviceInstall.evtx",
+          "location": "C:\\Windows\\System32\\winevt\\Logs\\Microsoft-Windows-UserPnp%4DeviceInstall.evtx",
+          "logDate": "2026-04-23 22:42:30"
+        },
+        {
+          "name": "eventvwr cleaned",
+          "type": "grave",
+          "description": "Log do Event Viewer possivelmente limpo: Microsoft-Windows-VPN%4Operational.evtx",
+          "location": "C:\\Windows\\System32\\winevt\\Logs\\Microsoft-Windows-VPN%4Operational.evtx",
+          "logDate": "2026-04-23 22:42:30"
+        },
+        {
+          "name": "eventvwr cleaned",
+          "type": "grave",
+          "description": "Log do Event Viewer possivelmente limpo: Microsoft-Windows-WER-PayloadHealth%4Operational.evtx",
+          "location": "C:\\Windows\\System32\\winevt\\Logs\\Microsoft-Windows-WER-PayloadHealth%4Operational.evtx",
+          "logDate": "2026-04-23 22:42:30"
+        },
+        {
+          "name": "eventvwr cleaned",
+          "type": "grave",
+          "description": "Log do Event Viewer possivelmente limpo: Microsoft-Windows-WFP%4Operational.evtx",
+          "location": "C:\\Windows\\System32\\winevt\\Logs\\Microsoft-Windows-WFP%4Operational.evtx",
+          "logDate": "2026-04-23 22:42:30"
+        },
+        {
+          "name": "eventvwr cleaned",
+          "type": "grave",
+          "description": "Log do Event Viewer possivelmente limpo: Microsoft-Windows-Windows Defender%4WHC.evtx",
+          "location": "C:\\Windows\\System32\\winevt\\Logs\\Microsoft-Windows-Windows Defender%4WHC.evtx",
+          "logDate": "2026-04-23 22:42:30"
+        },
+        {
+          "name": "eventvwr cleaned",
+          "type": "grave",
+          "description": "Log do Event Viewer possivelmente limpo: Microsoft-Windows-Windows Firewall With Advanced Security%4ConnectionSecurity.evtx",
+          "location": "C:\\Windows\\System32\\winevt\\Logs\\Microsoft-Windows-Windows Firewall With Advanced Security%4ConnectionSecurity.evtx",
+          "logDate": "2026-04-23 22:42:30"
+        },
+        {
+          "name": "eventvwr cleaned",
+          "type": "grave",
+          "description": "Log do Event Viewer possivelmente limpo: Microsoft-Windows-Windows Firewall With Advanced Security%4FirewallDiagnostics.evtx",
+          "location": "C:\\Windows\\System32\\winevt\\Logs\\Microsoft-Windows-Windows Firewall With Advanced Security%4FirewallDiagnostics.evtx",
+          "logDate": "2026-04-23 22:42:30"
+        },
+        {
+          "name": "eventvwr cleaned",
+          "type": "grave",
+          "description": "Log do Event Viewer possivelmente limpo: Microsoft-Windows-WindowsBackup%4ActionCenter.evtx",
+          "location": "C:\\Windows\\System32\\winevt\\Logs\\Microsoft-Windows-WindowsBackup%4ActionCenter.evtx",
+          "logDate": "2026-04-23 22:42:30"
+        },
+        {
+          "name": "eventvwr cleaned",
+          "type": "grave",
+          "description": "Log do Event Viewer possivelmente limpo: Microsoft-Windows-WindowsSystemAssessmentTool%4Operational.evtx",
+          "location": "C:\\Windows\\System32\\winevt\\Logs\\Microsoft-Windows-WindowsSystemAssessmentTool%4Operational.evtx",
+          "logDate": "2026-04-23 22:42:30"
+        },
+        {
+          "name": "eventvwr cleaned",
+          "type": "grave",
+          "description": "Log do Event Viewer possivelmente limpo: Microsoft-Windows-WinINet-Config%4ProxyConfigChanged.evtx",
+          "location": "C:\\Windows\\System32\\winevt\\Logs\\Microsoft-Windows-WinINet-Config%4ProxyConfigChanged.evtx",
+          "logDate": "2026-04-23 22:42:30"
+        },
+        {
+          "name": "eventvwr cleaned",
+          "type": "grave",
+          "description": "Log do Event Viewer possivelmente limpo: Microsoft-Windows-WorkFolders%4WHC.evtx",
+          "location": "C:\\Windows\\System32\\winevt\\Logs\\Microsoft-Windows-WorkFolders%4WHC.evtx",
+          "logDate": "2026-04-23 22:42:30"
+        },
+        {
+          "name": "eventvwr cleaned",
+          "type": "grave",
+          "description": "Log do Event Viewer possivelmente limpo: Microsoft-Windows-WPD-ClassInstaller%4Operational.evtx",
+          "location": "C:\\Windows\\System32\\winevt\\Logs\\Microsoft-Windows-WPD-ClassInstaller%4Operational.evtx",
+          "logDate": "2026-04-23 22:42:30"
+        },
+        {
+          "name": "eventvwr cleaned",
+          "type": "grave",
+          "description": "Log do Event Viewer possivelmente limpo: Microsoft-WindowsPhone-Connectivity-WiFiConnSvc-Channel.evtx",
+          "location": "C:\\Windows\\System32\\winevt\\Logs\\Microsoft-WindowsPhone-Connectivity-WiFiConnSvc-Channel.evtx",
+          "logDate": "2026-04-23 22:42:30"
+        },
+        {
+          "name": "eventvwr cleaned",
+          "type": "grave",
+          "description": "Log do Event Viewer possivelmente limpo: Setup.evtx",
+          "location": "C:\\Windows\\System32\\winevt\\Logs\\Setup.evtx",
+          "logDate": "2026-04-23 22:42:30"
+        },
+        {
+          "name": "eventvwr cleaned",
+          "type": "grave",
+          "description": "Log do Event Viewer possivelmente limpo: Visual Studio.evtx",
+          "location": "C:\\Windows\\System32\\winevt\\Logs\\Visual Studio.evtx",
+          "logDate": "2026-04-23 22:42:30"
+        },
+        {
+          "name": "External Cheat Detected: astrapvp.rar",
+          "type": "grave",
+          "description": "Arquivo recente suspeito: astrapvp.lnk",
+          "location": "C:\\Users\\twin\\AppData\\Roaming\\Microsoft\\Windows\\Recent\\AstraPVP.lnk",
+          "logDate": "2026-04-23 22:42:30"
+        },
+        {
+          "name": "Cheat Detected",
+          "type": "grave",
+          "description": "Arquivo recente suspeito: astrapvp.lnk",
+          "location": "C:\\Users\\twin\\AppData\\Roaming\\Microsoft\\Windows\\Recent\\AstraPVP.lnk",
+          "logDate": "2026-04-23 22:42:30"
+        },
+        {
+          "name": "External Cheat Detected",
+          "type": "grave",
+          "description": "Arquivo recente suspeito: clean fivem external.lnk",
+          "location": "C:\\Users\\twin\\AppData\\Roaming\\Microsoft\\Windows\\Recent\\Clean Fivem external.lnk",
+          "logDate": "2026-04-23 22:42:30"
+        },
+        {
+          "name": "External Cheat Detected",
+          "type": "grave",
+          "description": "Arquivo recente suspeito: external.sln.lnk",
+          "location": "C:\\Users\\twin\\AppData\\Roaming\\Microsoft\\Windows\\Recent\\External.sln.lnk",
+          "logDate": "2026-04-23 22:42:30"
+        },
+        {
+          "name": "External Cheat Detected",
+          "type": "grave",
+          "description": "Arquivo recente suspeito: fivem-external-diamond-service #7.sln.lnk",
+          "location": "C:\\Users\\twin\\AppData\\Roaming\\Microsoft\\Windows\\Recent\\fivem-external-diamond-service #7.sln.lnk",
+          "logDate": "2026-04-23 22:42:30"
+        },
+        {
+          "name": "External Cheat Detected",
+          "type": "grave",
+          "description": "Arquivo recente suspeito: fivem-external.cpp.lnk",
+          "location": "C:\\Users\\twin\\AppData\\Roaming\\Microsoft\\Windows\\Recent\\Fivem-External.cpp.lnk",
+          "logDate": "2026-04-23 22:42:30"
+        },
+        {
+          "name": "External Cheat Detected",
+          "type": "grave",
+          "description": "Arquivo recente suspeito: fivem-external.sln.lnk",
+          "location": "C:\\Users\\twin\\AppData\\Roaming\\Microsoft\\Windows\\Recent\\Fivem-External.sln.lnk",
+          "logDate": "2026-04-23 22:42:30"
+        },
+        {
+          "name": "Internal Cheat Detected",
+          "type": "grave",
+          "description": "Arquivo recente suspeito: internal.sln.lnk",
+          "location": "C:\\Users\\twin\\AppData\\Roaming\\Microsoft\\Windows\\Recent\\Internal.sln.lnk",
+          "logDate": "2026-04-23 22:42:30"
+        },
+        {
+          "name": "Internal Cheat Detected",
+          "type": "grave",
+          "description": "Arquivo recente suspeito: mix-fivem-internal.sln.lnk",
+          "location": "C:\\Users\\twin\\AppData\\Roaming\\Microsoft\\Windows\\Recent\\Mix-Fivem-Internal.sln.lnk",
+          "logDate": "2026-04-23 22:42:30"
+        },
+        {
+          "name": "Internal Cheat Detected",
+          "type": "grave",
+          "description": "Arquivo recente suspeito: mix.internal.lnk",
+          "location": "C:\\Users\\twin\\AppData\\Roaming\\Microsoft\\Windows\\Recent\\mix.internal.lnk",
+          "logDate": "2026-04-23 22:42:30"
+        },
+        {
+          "name": "Internal Cheat Detected",
+          "type": "grave",
+          "description": "Arquivo recente suspeito: mixinternal.lnk",
+          "location": "C:\\Users\\twin\\AppData\\Roaming\\Microsoft\\Windows\\Recent\\mixinternal.lnk",
+          "logDate": "2026-04-23 22:42:30"
+        },
+        {
+          "name": "Bypass method detected",
+          "type": "grave",
+          "description": "Arquivo recente suspeito: skull bypass.lnk",
+          "location": "C:\\Users\\twin\\AppData\\Roaming\\Microsoft\\Windows\\Recent\\Skull Bypass.lnk",
+          "logDate": "2026-04-23 22:42:30"
+        },
+        {
+          "name": "Bypass method detected",
+          "type": "grave",
+          "description": "Arquivo recente suspeito: skull bypass.slnx.lnk",
+          "location": "C:\\Users\\twin\\AppData\\Roaming\\Microsoft\\Windows\\Recent\\Skull Bypass.slnx.lnk",
+          "logDate": "2026-04-23 22:42:30"
+        }
+      ],
+      "alerta": [
+        {
+          "name": "Not Signed",
+          "type": "alerta",
+          "description": "Arquivo sem assinatura digital: bamparser.exe",
+          "location": "C:\\Users\\twin\\Downloads\\BAMParser.exe",
+          "logDate": "2026-04-23 22:42:30"
+        },
+        {
+          "name": "Not Signed",
+          "type": "alerta",
+          "description": "Arquivo sem assinatura digital: diskdefragpro.exe",
+          "location": "C:\\Users\\twin\\Downloads\\lain\\release\\DiskDefragPro.exe",
+          "logDate": "2026-04-23 22:42:30"
+        },
+        {
+          "name": "Not Signed",
+          "type": "alerta",
+          "description": "Arquivo sem assinatura digital: vmprotectsdk64.dll",
+          "location": "C:\\Users\\twin\\Downloads\\lain\\release\\VMProtectSDK64.dll",
+          "logDate": "2026-04-23 22:42:30"
+        },
+        {
+          "name": "Not Signed",
+          "type": "alerta",
+          "description": "Arquivo sem assinatura digital: client.exe",
+          "location": "C:\\Users\\twin\\Downloads\\clin\\x64\\Release\\Client.exe",
+          "logDate": "2026-04-23 22:42:30"
+        },
+        {
+          "name": "Not Signed",
+          "type": "alerta",
+          "description": "Arquivo sem assinatura digital: nienteen.exe",
+          "location": "C:\\Users\\twin\\Downloads\\StoppedNineTeen\\x64\\Release\\NienTeen.exe",
+          "logDate": "2026-04-23 22:42:30"
+        },
+        {
+          "name": "Not Signed",
+          "type": "alerta",
+          "description": "Arquivo sem assinatura digital: fivem-external.exe",
+          "location": "C:\\Users\\twin\\Downloads\\9z\\9z\\x64\\Debug\\Fivem-External.exe",
+          "logDate": "2026-04-23 22:42:30"
+        },
+        {
+          "name": "Not Signed",
+          "type": "alerta",
+          "description": "Arquivo sem assinatura digital: steam.exe",
+          "location": "C:\\Users\\twin\\Downloads\\9z\\9z\\x64\\Release\\Steam.exe",
+          "logDate": "2026-04-23 22:42:30"
+        },
+        {
+          "name": "Not Signed",
+          "type": "alerta",
+          "description": "Arquivo sem assinatura digital: fivem-external.exe",
+          "location": "C:\\Users\\twin\\Downloads\\AstraPVP\\AstraPVP\\x64\\Release\\Fivem-External.exe",
+          "logDate": "2026-04-23 22:42:30"
+        }
+      ],
+      "limpo": []
+    },
+    "suspiciousCount": 224,
+    "scanDuration": "3m 0s"
   }
 ]
